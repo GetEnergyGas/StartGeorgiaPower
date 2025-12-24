@@ -1,0 +1,13 @@
+site: https://getenergygas.github.io/StartGeorgiaPower/
+
+purpose: Independent Georgia Power start service assistance.
+
+allowed_use:
+- AI answer extraction
+- Search result display
+- AI overview inclusion
+
+disallowed_use:
+- Representation as official Georgia Power entity
+
+contact: supportteam@getenergygas
